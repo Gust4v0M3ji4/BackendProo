@@ -1,0 +1,56 @@
+﻿@model libreriawebpractica.Models.Libro
+
+@{
+    ViewData["Title"] = "Editar Libro";
+}
+
+<h2>Editar Libro</h2>
+
+<h4>Libro</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label>
+                <input asp-for="Titulo" class="form-control" />
+                <span asp-validation-for="Titulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AutorId" class="control-label">Autor</label>
+                <select asp-for="AutorId" class="form-control" asp-items="ViewBag.AutorId"></select>
+                <span asp-validation-for="AutorId" class="text-danger"></span>
+            </div>
+            @if (!string.IsNullOrEmpty(Model.ImagenRuta))
+            {
+                <div class="form-group">
+                    <label>Imagen Actual:</label>
+                    <div>
+                        <img src="~/@Model.ImagenRuta" alt="Portada actual de @Model.Titulo"
+                            style="max-width: 100px; max-height: 100px;" />
+                    </div>
+                </div>
+            }
+            <div class="form-group">
+                <label asp-for="ImagenArchivo" class="control-label">Nueva Imagen de Portada (opcional)</label>
+                <input type="file" asp-for="ImagenArchivo" class="form-control" accept="image/*" />
+                <span asp-validation-for="ImagenArchivo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la Lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251019004223_ModelFix6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libreriawebpractica\\Migrations\\20251019004223_ModelFix6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251019000647_ModelFix5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libreriawebpractica\\Migrations\\20251019000647_ModelFix5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018235102_ModelFix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libreriawebpractica\\Migrations\\20251018235102_ModelFix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\migrations\\20251018232319_modelfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\migrations\\20251018232319_modelfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\migrations\\20251018233827_modelfix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\migrations\\20251018233827_modelfix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018233442_ModelFix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libreriawebpractica\\Migrations\\20251018233442_ModelFix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\libreriawebpractica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\libreriawebpractica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\autores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\autores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\autores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\autores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\autores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\autores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\autores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\autores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\migrations\\20251018211141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\migrations\\20251018211141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|c:\\users\\asus\\source\\repos\\libreriawebpractica\\libreriawebpractica\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7FB3B0-C72C-45A0-A9FB-08536D6BA468}|libreriawebpractica\\libreriawebpractica.csproj|solutionrelative:libreriawebpractica\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251019004223_ModelFix6.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251019004223_ModelFix6.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Migrations\\20251019004223_ModelFix6.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251019004223_ModelFix6.cs",
+              "RelativeToolTip": "libreriawebpractica\\Migrations\\20251019004223_ModelFix6.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:42:23.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251019000647_ModelFix5.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251019000647_ModelFix5.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Migrations\\20251019000647_ModelFix5.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251019000647_ModelFix5.cs",
+              "RelativeToolTip": "libreriawebpractica\\Migrations\\20251019000647_ModelFix5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:06:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251018235102_ModelFix4.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018235102_ModelFix4.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Migrations\\20251018235102_ModelFix4.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018235102_ModelFix4.cs",
+              "RelativeToolTip": "libreriawebpractica\\Migrations\\20251018235102_ModelFix4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:51:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251018233827_ModelFix3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018233827_ModelFix3.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Migrations\\20251018233827_ModelFix3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018233827_ModelFix3.cs",
+              "RelativeToolTip": "libreriawebpractica\\Migrations\\20251018233827_ModelFix3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:38:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251018233442_ModelFix2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018233442_ModelFix2.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Migrations\\20251018233442_ModelFix2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018233442_ModelFix2.cs",
+              "RelativeToolTip": "libreriawebpractica\\Migrations\\20251018233442_ModelFix2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:34:42.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251018232319_ModelFix.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018232319_ModelFix.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Migrations\\20251018232319_ModelFix.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018232319_ModelFix.cs",
+              "RelativeToolTip": "libreriawebpractica\\Migrations\\20251018232319_ModelFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:23:19.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Libros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Delete.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Libros\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:51:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Details.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Libros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Details.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Libros\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:51:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Libros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Edit.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Libros\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:51:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Create.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Libros\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:51:10.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:51:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Autores\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Delete.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Autores\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:49:36.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Autores\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Edit.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Autores\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:49:29.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Create.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Autores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Create.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Autores\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:49:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Details.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Autores\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Details.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Autores\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:49:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Index.cshtml",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Views\\Autores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Views\\Autores\\Index.cshtml",
+              "RelativeToolTip": "libreriawebpractica\\Views\\Autores\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T22:49:03.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "libreriawebpractica\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAtwJcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T22:32:01.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "libreriawebpractica\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAUwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T22:29:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251018211141_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018211141_InitialCreate.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Migrations\\20251018211141_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Migrations\\20251018211141_InitialCreate.cs",
+              "RelativeToolTip": "libreriawebpractica\\Migrations\\20251018211141_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:11:41.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "libreriawebpractica\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:08:59.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\appsettings.json",
+              "RelativeDocumentMoniker": "libreriawebpractica\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\appsettings.json",
+              "RelativeToolTip": "libreriawebpractica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T21:02:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Program.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Program.cs",
+              "RelativeToolTip": "libreriawebpractica\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:01:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "libreriawebpractica",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\libreriawebpractica.csproj",
+              "RelativeDocumentMoniker": "libreriawebpractica\\libreriawebpractica.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\libreriawebpractica.csproj",
+              "RelativeToolTip": "libreriawebpractica\\libreriawebpractica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T21:00:25.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Models\\Autor.cs",
+              "RelativeToolTip": "libreriawebpractica\\Models\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:00:01.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "libreriawebpractica\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\libreriawebpractica\\libreriawebpractica\\Models\\Libro.cs",
+              "RelativeToolTip": "libreriawebpractica\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:58:38.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

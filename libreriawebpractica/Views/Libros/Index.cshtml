@@ -1,0 +1,64 @@
+﻿<!-- Views/Libros/Index.cshtml -->
+@model IEnumerable<libreriawebpractica.Models.Libro>
+
+@{
+    ViewData["Title"] = "Libros";
+}
+
+<h2>Libros</h2>
+
+<p>
+    <a asp-action="Create">Crear Nuevo Libro</a>
+</p>
+
+<form asp-controller="Libros" asp-action="Index" method="get">
+    <p>
+        <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" placeholder="Buscar por título o autor..." />
+        <input type="submit" value="Filtrar" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autor.Nombre)
+            </th>
+            <th>
+                Imagen
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Autor.Nombre)
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImagenRuta))
+                    {
+                        <img src="~/@item.ImagenRuta" alt="Portada de @item.Titulo" style="max-width: 100px; max-height: 100px;" />
+                    }
+                    else
+                    {
+                        <span>Sin imagen</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

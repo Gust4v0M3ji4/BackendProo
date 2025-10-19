@@ -1,0 +1,24 @@
+﻿@model libreriawebpractica.Models.Autor
+
+@{
+    ViewData["Title"] = "Detalles del Autor";
+}
+
+<h2>Detalles del Autor</h2>
+
+<div>
+    <h4>@Model.Nombre</h4> <!-- Sesión 5 -->
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre) <!-- Sesión 5 -->
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nombre) <!-- Sesión 5 -->
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Editar</a> | <!-- Sesión 5 -->
+    <a asp-action="Index">Volver a la Lista</a> <!-- Sesión 5 -->
+</div>

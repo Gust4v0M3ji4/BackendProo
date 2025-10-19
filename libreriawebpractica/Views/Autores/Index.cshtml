@@ -1,0 +1,46 @@
+﻿@model IEnumerable<libreriawebpractica.Models.Autor>
+
+@{
+    ViewData["Title"] = "Autores";
+}
+
+<h2>Autores</h2>
+
+<p>
+    <a asp-action="Create">Crear Nuevo Autor</a>
+</p>
+
+<!-- Formulario de Búsqueda (Sesión 6) -->
+<form asp-controller="Autores" asp-action="Index" method="get">
+    <p>
+        <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" placeholder="Buscar por nombre..." />
+        <input type="submit" value="Filtrar" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre) <!-- Sesión 5 -->
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <!-- Sesión 5 -->
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre) <!-- Sesión 5 -->
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> | <!-- Sesión 5 -->
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> | <!-- Sesión 5 -->
+                    <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a> <!-- Sesión 5 -->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

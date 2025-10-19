@@ -1,0 +1,28 @@
+﻿@model libreriawebpractica.Models.Autor
+
+@{
+    ViewData["Title"] = "Eliminar Autor";
+}
+
+<h2>Eliminar Autor</h2>
+
+<h3>¿Estás seguro de que deseas eliminar este autor?</h3>
+<div>
+    <h4>@Model.Nombre</h4> <!-- Sesión 5 -->
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre) <!-- Sesión 5 -->
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nombre) <!-- Sesión 5 -->
+        </dd>
+    </dl>
+
+    <form asp-action="DeleteConfirmed">
+        <!-- Sesión 5 -->
+        <input type="hidden" asp-for="Id" /> <!-- Sesión 5 -->
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> | <!-- Sesión 5 -->
+        <a asp-action="Index">Volver a la Lista</a> <!-- Sesión 5 -->
+    </form>
+</div>
