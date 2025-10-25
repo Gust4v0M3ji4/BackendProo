@@ -2,6 +2,7 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using WeatherBroadcast.Models;
+using System.Text;
 
 namespace WeatherBroadcast.Services
 {
@@ -20,7 +21,7 @@ namespace WeatherBroadcast.Services
                 new Claim(JwtRegisteredClaimNames.Sub, usuario.Email),
                 new Claim("id", usuario.Id.ToString()),
                 new Claim("nombre", usuario.Nombre)
-            };  
+            };
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:key"]!));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
@@ -33,6 +34,7 @@ namespace WeatherBroadcast.Services
                 );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
-                
+
+        }
     }
 }

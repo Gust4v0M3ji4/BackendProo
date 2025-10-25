@@ -2,9 +2,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WeatherBroadcast.Data;
 using WeatherBroadcast;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WeatherBroadcast.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class WeatherController : ControllerBase
@@ -97,6 +99,8 @@ namespace WeatherBroadcast.Controllers
             await _context.SaveChangesAsync();
 
             return NoContent();
-        }
+        } 
+
+
     }
 }
