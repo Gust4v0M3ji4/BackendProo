@@ -1,0 +1,8 @@
+# Ignorar archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+bin/
+obj/
